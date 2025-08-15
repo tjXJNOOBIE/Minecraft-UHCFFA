@@ -1,0 +1,9 @@
+version: 1.0
+name: ELO
+author: tjXJNOOBIE
+main: dev.tjxjnoobie.ffa.Main
+commands:
+   createtables:
+   stats:
+   build:
+   debug:
